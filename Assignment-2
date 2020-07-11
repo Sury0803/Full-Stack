@@ -1,0 +1,22 @@
+//created by-Suryansh Saxena
+//editor-BRACKETS
+//date-11-07-2020
+
+_______________________________________________________________________________________________________________________________________________________________________________________
+<html>
+    <title>Assignment-2</title>
+<style>
+    body{
+    background-color:aqua;
+    }
+    h1{
+        color: red;
+    }
+    </style>
+<body>
+    <h1>This is my live web-page</h1>
+    <h2>About me</h2>
+    <p>Hello, I am Suryansh Saxena and I am from firozabad . I have completed my 12th from St. John's School and secured 88.6%.<br>Presently I am doing B.Tech from GLA Univeristy , Mathura.<br>This is my first webpage.
+        This webpage is just about the output of html skeleton.</p>
+    </body>
+</html>
